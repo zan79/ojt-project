@@ -1,0 +1,12 @@
+c:\users\reyno\documents\visual studio 2010\Projects\OJTProject\OJTProject\bin\Debug\OJTProject.exe
+c:\users\reyno\documents\visual studio 2010\Projects\OJTProject\OJTProject\bin\Debug\OJTProject.pdb
+c:\users\reyno\documents\visual studio 2010\Projects\OJTProject\OJTProject\obj\Debug\OJTProject.Login.resources
+c:\users\reyno\documents\visual studio 2010\Projects\OJTProject\OJTProject\obj\Debug\OJTProject.Properties.Resources.resources
+c:\users\reyno\documents\visual studio 2010\Projects\OJTProject\OJTProject\obj\Debug\OJTProject.csproj.GenerateResource.Cache
+c:\users\reyno\documents\visual studio 2010\Projects\OJTProject\OJTProject\obj\Debug\OJTProject.exe.licenses
+c:\users\reyno\documents\visual studio 2010\Projects\OJTProject\OJTProject\obj\Debug\OJTProject.exe
+c:\users\reyno\documents\visual studio 2010\Projects\OJTProject\OJTProject\obj\Debug\OJTProject.pdb
+c:\users\reyno\documents\visual studio 2010\Projects\OJTProject\OJTProject\bin\Debug\MySql.Data.dll
+c:\users\reyno\documents\visual studio 2010\Projects\OJTProject\OJTProject\obj\Debug\OJTProject.csprojResolveAssemblyReference.cache
+c:\users\reyno\documents\visual studio 2010\Projects\OJTProject\OJTProject\obj\Debug\OJTProject.CRUD.resources
+C:\Users\REYNO\Documents\visual studio 2010\Projects\OJTProject\OJTProject\obj\Debug\OJTProject.WaitForm1.resources
